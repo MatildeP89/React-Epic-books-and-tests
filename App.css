@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.book-cover {
+  height: 100%;
+}
+
+.maintitle{color: purple;}
+
+
+
+#root a {
+  text-decoration: none;
+}
+
+.cardbutton{background-color: pink; color: blue; }
+.cardbutton:hover {background-color: purple;}
+
+#root {background-color: black}
